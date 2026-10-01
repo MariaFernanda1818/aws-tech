@@ -42,6 +42,11 @@ function App() {
           </div>
 
           <div className="info-item">
+            <span>Docente</span>
+            <strong>Willy</strong>
+          </div>
+
+          <div className="info-item">
             <span>Curso</span>
             <strong>Laboratorio DevOps</strong>
           </div>
