@@ -32,6 +32,16 @@ function App() {
           </div>
 
           <div className="info-item">
+            <span>Estudiante 3</span>
+            <strong>Mariana</strong>
+          </div>
+
+          <div className="info-item">
+            <span>Estudiante 4</span>
+            <strong>Geronimo</strong>
+          </div>
+
+          <div className="info-item">
             <span>Curso</span>
             <strong>Laboratorio DevOps</strong>
           </div>
