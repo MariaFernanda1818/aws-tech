@@ -6,7 +6,7 @@ function App() {
       <section className="card">
         <div className="badge">AWS Amplify</div>
 
-        <h1>Laboratorio DevOps - AWS</h1>
+        <h1>Laboratorio DevOps - AWS U Caldas</h1>
 
         <h2>Desplegado con AWS Amplify</h2>
 
